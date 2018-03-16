@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DoByMyself/Scenes/_Main.unity
+  isLoaded: 1
+  isActive: 1
